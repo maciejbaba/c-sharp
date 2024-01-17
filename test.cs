@@ -1,5 +1,7 @@
 using NUnit.Framework;
 
+// switching to visual studio, this is a test in visual studio code
+
 namespace YourNamespace.Tests
 {
   [TestFixture]
